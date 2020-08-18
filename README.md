@@ -1,6 +1,6 @@
 # Covid19_Tracker
 
-COVID-19 TRACKER INDIA (STATE-WISE)
+COVID-19 TRACKER (STATE-WISE)
 
 
 ![Screenshot_20200719_232657_copy_360x760](https://user-images.githubusercontent.com/67230351/89934069-aa7a4400-dc2d-11ea-8d8c-3f461cca1dab.jpg)
